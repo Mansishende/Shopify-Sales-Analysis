@@ -1,0 +1,13 @@
+
+SHOPIFY SALES ANALYSIS REPORT
+=============================
+
+Total records: 7,431
+Total Revenue: $4,598,960.87 USD
+Unique Orders: 7,431
+Unique Customers: 4,431
+Units Sold: 7,534
+Average Order Value: $618.89 USD
+
+Note: Revenue and average order value are calculated
+from the Total Price Usd column and unique order numbers.
